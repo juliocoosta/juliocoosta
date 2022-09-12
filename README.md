@@ -1,7 +1,7 @@
   ## Olá! Me chamo Júlio, seja muito bem vindo ao meu perfil
 
 - 👨‍💻 Atuamente sou estagiário de programação.
-- 👨‍🎓 Estuando JAVASCRIPT,HTML,CSS,JAVA,SQL.
+- 👨‍🎓 Estudando JAVASCRIPT,HTML,CSS,JAVA,SQL.
 - 👨‍🎓 Graduando em ANÁLISE E DESENVOLVIMENTO DE SISTEMA.
 
 <div align="center">
